@@ -1,6 +1,6 @@
 # Experiment 1: virus_antibody - parameter sweep: endemic corridors
 
-Prompt 1 - 21 March 2026, 4:25 PM
+## Prompt 1 - 21 March 2026, 4:25 PM
 
 ```
 grab github.com/mesa/mesa-examples;
@@ -14,10 +14,11 @@ Write a markdown report, including suggestions for further research
 
 [report](/virus_antibody_sweep_report.md)
 
-Output
+## Output
 
 ```
 Now let me write a comprehensive parameter sweep script:Excellent! Full sweep complete. Now let me analyze the results and build the report:Now let me write the full markdown report:Here's a summary of what was done and found.
+```
 
 ---
 
@@ -45,5 +46,5 @@ Now let me write a comprehensive parameter sweep script:Excellent! Full sweep co
 **Surprise:** perfectly balanced rates (Hypothesis A) and an antibody advantage (Hypothesis B) both failed to produce endemicity — the model's memory system is effective enough that any antibody edge resolves the infection. The virus needs a *slight* duplication edge, combined with mutation fast enough to stay ahead of memory sharing.
 
 The full 1,899-run experiment log (with complete time series) is attached for further analysis.
-```
+
 
