@@ -17,7 +17,11 @@ Write a markdown report, including suggestions for further research
 ## Output
 
 ```
-Now let me write a comprehensive parameter sweep script:Excellent! Full sweep complete. Now let me analyze the results and build the report:Now let me write the full markdown report:Here's a summary of what was done and found.
+Now let me write a comprehensive parameter sweep script:
+Excellent! Full sweep complete.
+Now let me analyze the results and build the report:
+Now let me write the full markdown report:
+Here's a summary of what was done and found.
 ```
 
 ---
