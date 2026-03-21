@@ -1,3 +1,5 @@
+# Experiment 1: virus_antibody - parameter sweep: endemic corridors
+
 Prompt 1 - 21 March 2026, 4:25 PM
 
 ```
@@ -5,6 +7,8 @@ grab github.com/mesa/mesa-examples;
 
 for the virus_antibody model, perform a parameter sweep, we are looking for a meta-stable / endemic path, test parameters, combinations; hypothesize relationships between parameters that lead to endemic paths, test those. Keep a log of all experiments in case of timeouts. Write a markdown report, including suggestions for further research
 ```
+
+[report](/virus_antibody_sweep_report.md)
 
 Output
 
