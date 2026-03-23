@@ -12,8 +12,6 @@ Keep a log of all experiments in case of timeouts.
 Write a markdown report, including suggestions for further research
 ```
 
-[report](/virus_antibody_sweep_report.md)
-
 ## Output
 
 ```
@@ -23,6 +21,8 @@ Now let me analyze the results and build the report:
 Now let me write the full markdown report:
 Here's a summary of what was done and found.
 ```
+
+[report](/virus_antibody_sweep_report.md)
 
 ---
 
