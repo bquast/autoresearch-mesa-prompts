@@ -52,3 +52,7 @@ Here's a summary of what was done and found.
 The full 1,899-run experiment log (with complete time series) is attached for further analysis.
 
 
+# Experiment 2: Deffuant-Weisbuch
+
+[report](./deffuant_weisbuch_report.md)
+
